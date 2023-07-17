@@ -17,7 +17,7 @@ API performance testing is becoming increasingly important to ensure overall sys
 
 - https://reqres.in
 
-  ![55281](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/1b030547-65b9-4d60-889b-9e4a39fd3f3c)
+  ![55281](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/7de5690a-fe47-4bc9-b07f-3fd61af0f93c)
 
 - Case
   | MATRIX | QUANTITY |
@@ -37,17 +37,17 @@ API performance testing is becoming increasingly important to ensure overall sys
 
 - Shorten base url https://reqres.in
 
-  ![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/e8b33bcc-4da5-4dc3-b4ab-19907ca291ac)
+  ![Capture](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/14cd9fd6-544b-415a-a5df-788b69143494)
 
 - Test API CREATE (SUCCESS)
   
-  ![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/fa24f350-50ba-44cc-a884-ce9f7476093d)
-  ![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/460a05da-b90e-495f-9b2f-c77064e077f7)
+  ![Test API CREATE](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/31e72780-edbf-4dce-a40f-c6da340d173f)
+  ![Hasil Test API CREATE - Postman](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/2ed1df4d-a541-4a55-a421-9e9796ee442f)
   
 - Test API UPDATE (SUCCESS)
 
-  ![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/de34e133-8976-491e-9666-71e34adde7ae)
-  ![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/d8ba75e1-b2bf-4f27-84a0-572972581333)
+  ![Test API UPDATE](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/cfd66347-f6d3-43ee-9dea-5d9ec307f0a9)
+  ![Hasil Test API Upadte- Postman](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/2b670d05-5b60-40a5-b679-28c3cd16d867)
 
 ## API Performance Test With K6
 
@@ -111,16 +111,16 @@ check(
 );
 ```
 
-the complete code as follows <a href="https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/blob/main/main.js">main.js</a>
+the complete code as follows <a href="https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/blob/main/Main.js">main.js</a>
 
 ## Report Visualization Of The Performance Test
 
-![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/a9aff6c9-4a9f-4551-b13b-728ce8071a82)
+![Hasil Test K6](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/3be4cb8e-be65-4cec-8db4-d2a04c732928)
 
-![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/21485b04-3948-4a70-893a-e6e85c3fd067)
+![k6 1](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/85ce2e89-941d-4ee1-9ff5-b90000f84779)
 
-![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/566fec69-3c70-4031-b9bb-57e487a874d5)
+![k6 2](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/28e0b0c9-77cf-4683-bbcc-a1329197732d)
 
-![image](https://github.com/SyrMtng/REST-API-Load-Testing-with-Postman-and-K6/assets/114982520/20b8118b-88c1-445b-91c5-bfda485a5d45)
+![k6 3](https://github.com/SyrMtng/REST-API-Load-Testing-with-K6/assets/114982520/b1f35aac-b7a5-46ad-928e-e5fa8413de09)
 
 ![](https://i.imgur.com/waxVImv.png)
